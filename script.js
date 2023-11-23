@@ -89,7 +89,7 @@ let g = 25
 document.write(`Variable G = ${g}<br>`);
 let h = 64
 document.write(`Variable H = ${h}<br>`);
-let i = 25
+let i = 125
 document.write(`Variable I = ${i}<br>`);
 
 document.write(`<h3> Math Srqt </h3>`)
